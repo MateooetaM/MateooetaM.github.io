@@ -1,0 +1,14 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  /* conding section */
+  
+  #Cover-section {
+    background-image: url("../imgs/coding_mac.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 700px;
+  }
+  
