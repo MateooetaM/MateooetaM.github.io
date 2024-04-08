@@ -12,3 +12,10 @@ body {
     height: 700px;
   }
   
+  /* info */
+
+#info_personal {
+    font-weight: 700;
+    color: #fff;
+    background-color: #26292b;
+  }
