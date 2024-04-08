@@ -1,0 +1,38 @@
+.cuerpo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.encabezado {
+    text-align: justify;
+    padding: 50px;
+    margin: 0;
+}
+
+.encabezado {
+    background: url("/Introduction_CSS/assets/imgs/plant_cover.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.elementos p {
+    font-weight: bolder;
+}
+
+.elemento_extremos td img {
+    padding: 60px 40px 60px 100px;
+    margin: 0;
+}
+
+.elemento_medio td img {
+    padding: 0px 40px 0px 100px;
+    margin: 0;
+}
+
+.pie {
+    text-align: center;
+    background-color: rgb(219, 113, 26);
+    color: white;
+    font-weight: bolder;
+    padding: 1px;
+    margin: 0;
+}

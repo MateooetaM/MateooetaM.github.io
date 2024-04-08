@@ -12,10 +12,19 @@ body {
     height: 700px;
   }
   
+/* Mis trabajos */
+
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
   /* info */
 
 #info_personal {
     font-weight: 700;
     color: #fff;
-    background-color: #26292b;
+    
   }

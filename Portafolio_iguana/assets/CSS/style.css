@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.encabezado h1 {
+    padding: 0.2rem;
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: normal;
+    background-color: #000;
+    color: #fff;
+
+}
+
+.encabezado div img {
+    background-image: cover;
+    width: 100%;
+}
+
+.encabezado div {
+    background-color: #000;
+}
+
+
+.informacion {
+    display: flex;
+    padding: 3rem 6rem;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    align-items: center;
+}
+
+.informacion-1 {
+    text-align: start;
+    width: 50%;
+    margin-right: 5rem;
+}
+
+.informacion-1 p {
+    margin-bottom: 1rem;
+}
+
+.informacion-2 img {
+    width: 100%;
+}
+
+
+.catacteristicas {
+    background-color: #35281b;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+
+.catacteristicas h2 {
+    font-weight: normal;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+.cajas {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1.5rem;
+}
+
+.catacteristicas .cajas .caja {
+    width: 25%;
+}
+
+.caja i {
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 5% 10%;
+    background-color: #000;
+
+}
+
+.galeria img {
+    width: 30%;
+}
+
+
+.pie {
+    background-color: #35281b;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+.pie p a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}

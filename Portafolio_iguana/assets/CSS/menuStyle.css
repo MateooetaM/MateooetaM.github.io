@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    background-color: #000;
+    color: #fff;
+    margin-top: 0;
+}
+
+li {
+    padding: 1.2rem;
+}
+
+a {
+    color: #fff;
+}
+
+/*Aplicamos pseudoselectores, hover y active*/
+a:hover {
+    color: #ff0000
+}
+
+a:active {
+    color: #0000ff;
+}

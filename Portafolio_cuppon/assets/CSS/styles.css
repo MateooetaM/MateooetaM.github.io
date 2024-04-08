@@ -1,0 +1,19 @@
+:root {
+    --black: #212529;
+    --gray: #707070;
+    --light: #F8F9FA;
+    --white: #fff;
+    --green: #28a745;
+}
+
+.card-title {
+    color: var(--green);
+}
+
+h6 {
+    color: var(--white);
+}
+
+footer p {
+    color: var(--gray);
+}
